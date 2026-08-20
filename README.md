@@ -2,7 +2,7 @@
 
 A data analysis project exploring COVID-19 trends across major Indian states, 
 focused on identifying regional disparities in case severity, fatality rates, 
-vaccination coverage, and testing efficiency.
+vaccination coverage, and testing efficiency...
 
 ## What this project does
 - Cleans and structures state-wise COVID-19 data using **SQL**
